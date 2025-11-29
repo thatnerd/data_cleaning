@@ -1,0 +1,12 @@
+Company 	Current ARR Multiple 	2023 ARR Multiple 	YoY Change in Revenue 	Profit Margin 	Rule of 40 	2024 Stock Performance
+Crowdstrike 	20.8x 	18.7x 	29% 	-6% 	23% 	19%
+ServiceNow 	19.5x 	15.3x 	22% 	15% 	37% 	34%
+DataDog 	17.5x 	17.2x 	26% 	3% 	29% 	13%
+Clearwater Analytics 	14.6x 	12.4x 	22% 	6% 	29% 	43%
+Rubrik 	14.5x 	N/A 	N/A 	-61% 	N/A 	N/A
+Palo Alto Networks 	13.9x 	12.1x 	14% 	13% 	27% 	2%
+Snowflake 	13.7x 	21.1x 	28% 	-39% 	-10% 	-17%
+HubSpot 	13.4x 	12.3x 	20% 	-1% 	19% 	15%
+Guidewire Software 	13.3x 	N/A 	27% 	-2% 	N/A 	53%
+Veeva Systems 	12.2x 	12.3x 	13% 	26% 	39% 	5%
+SCI Universe Median Value 	7.0x 	7.0x 	14% 	-2% 	13% 	5%
